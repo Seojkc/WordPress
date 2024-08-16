@@ -1,4 +1,8 @@
-# WordPress
+**Bean There Shop Website
+**
+This is the official website for Bean There Shop, an online coffee store built using WordPress. The website offers a user-friendly interface for customers to browse and purchase a wide range of coffee beans and related products. Built with responsive design principles, it ensures a seamless shopping experience on both desktop and mobile devices.
+
+
 
 video link
 https://youtu.be/wIuOLGlV8BM
